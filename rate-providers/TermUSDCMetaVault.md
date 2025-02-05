@@ -1,15 +1,13 @@
-\<Template: Copy this file and replace all elements inside \<\> brackets. Delete this particular block.\>
 
-# Rate Provider: `\<Name of Reviewed Contract\>`
+# Rate Provider: Term Strategy Vaults
 
 ## Details
 - Reviewed by: @\<GitHub handle of primary reviewer\>
 - Checked by: @\<GitHub handle of secondary reviewer\>
 - Deployed at:
-    - [\<network:address\>](\<link to contract on block explorer\>)
-    - [\<network:address\>](\<link to contract on block explorer\>)
+    - [Ethereum: 0x697c54a84d83f37380d034e2bfc6f7ce8d89f4ee](https://etherscan.io/address/0x697c54a84d83f37380d034e2bfc6f7ce8d89f4ee)
 - Audit report(s):
-    - [\<audit title\>](\<link to audit\>)
+    - [Term Strategy Vaults Audits and Formal Verification](https://developers.term.finance/periphery-contracts/curated-vaults/deployed-contracts/smart-contract-audits)
 
 ## Context
 \<Write a brief description of the intended functionality here.\>
